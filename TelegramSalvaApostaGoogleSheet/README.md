@@ -1,0 +1,1 @@
+## Bot que salva resultados de aposta em uma planilha do google sheets
